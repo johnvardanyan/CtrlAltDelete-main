@@ -1,0 +1,5 @@
+# Prerequestite
+*.d
+
+# Port
+*.env
